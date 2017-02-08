@@ -27,7 +27,7 @@ To help commutication between Collegues.
 
 ## Facing Changings
  * Facing changings
- * Facing appending
+ * Facing expansion
 The files to modify is little. Mainly on Mediator and the modified collegue.
 
 ----
@@ -37,7 +37,7 @@ In addition to the changes of collegue, the only thing to do is adding a related
 
 ----
 
-### Appending
+### Expansion
 Appending a class inherits from one of the collegues in the Mediator, just add to be member of Mediator and implement related function in Mediator.
 
 ---
