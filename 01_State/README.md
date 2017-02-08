@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # State
 
 ---
@@ -48,6 +47,3 @@ function SetState( var state ); // update current state
 ### State
 member Context; // the state controller
 function Handle ( var value ); // handle request from Context by value, may update state
-=======
-# DesignPatterns
->>>>>>> b393225401380bf79402ccf218bf4d075284c712
