@@ -1,1 +1,3 @@
-# DesignPatterns
+#TODO:
+ * Flyweight confusing
+ * Revise
