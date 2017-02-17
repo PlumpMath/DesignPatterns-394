@@ -19,5 +19,9 @@ Use Factory when product :
  * Can be reuse
 
 ---
-## Structure
-See Builder
+
+## Advantages
+
+ * The code only deal with Product interface, needn't bind application-specific classes.
+    * Can work on any user-defined ConcreteProduct.
+ * Subclassing Creator for creating a particular ConcreteProduct is easy since Creator is interface-based..
