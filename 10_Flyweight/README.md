@@ -7,6 +7,7 @@
  * Flyweight
  * ConcreteFlyweight
  * UnsharedConcreteFlyweight
+ 
 ---
 
 ## Idea
